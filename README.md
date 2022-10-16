@@ -18,12 +18,11 @@ Issued by URA
 
 - **CRS:**  SVY21
 
-- **Columns: ** 
-
-  - **type :** land use type
-
-  - **area :**
-
+- **Columns:** 
+  - **type:** land use type
+  
+  - **area:**
+  
 - invalid geometry objects have been fixed
 
   - the difference area between the original and fixed geometry is small
