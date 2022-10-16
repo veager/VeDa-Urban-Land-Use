@@ -1,7 +1,4 @@
-<<<<<<< Updated upstream
 # Summary of Public Land Use
-
-# This is personal project
 
 ## 1 Official Land Use Data
 
@@ -54,7 +51,3 @@ EULUC-China-2018，[数据介绍](http://www.ess.tsinghua.edu.cn/publish/ess/777
 ### 2.1 Land Use
 
 ### 2.2 POI
-=======
-# This is personal project for test
->>>>>>> Stashed changes
-
