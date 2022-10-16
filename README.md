@@ -1,7 +1,4 @@
-<<<<<<< Updated upstream
-# Summary of Public Land Use
-
-# This is personal project
+# This is a personal project for test
 
 ## 1 Official Land Use Data
 
