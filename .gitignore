@@ -115,3 +115,7 @@ dmypy.json
 
 # released data
 urban_land_use/sg/data/
+
+
+poi/osm_poi/osm_data/
+poi/osm_poi/osmpois.jar

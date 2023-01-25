@@ -1,0 +1,17 @@
+cd "C:\zhouweifile\Github-Project\VeDa-Urban-Land-Use\poi\osm_poi"
+
+% convert ".osm" file to ".osm.pbf" file
+% osmosis --read-xml singapore.osm --write-pbf singapore.osm.pbf
+
+% java -jar osmpois.jar -r -ph singapore.osm.pbf
+java -jar osmpois.jar ^
+	-of "poi_data/poi_osm_sg-2023-01-24.csv" ^
+	-s "," ^
+	-r -ph "osm_data/singapore-2023-01-24.pbf"
+
+
+
+% python script
+cd "C:\zhouweifile\Github-Project\VeDa-Urban-Land-Use\poi\osm_poi"
+activate py39geo
+python "poi_data_processed.py"
