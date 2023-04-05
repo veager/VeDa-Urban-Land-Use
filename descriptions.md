@@ -51,3 +51,9 @@ EULUC-China-2018，[数据介绍](http://www.ess.tsinghua.edu.cn/publish/ess/777
 ### 2.1 Land Use
 
 ### 2.2 POI
+
+## 3 Land Cover
+
+- Sentinel-2 Land Cover, [site](https://livingatlas.arcgis.com/landcoverexplorer)
+- 
+
